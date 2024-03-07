@@ -1,0 +1,2 @@
+python IrisRecognition.py
+pause
